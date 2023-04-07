@@ -28,15 +28,25 @@
 
 .gpt3__whatgpt3-heading h1 {
     font-size: 34px;
-    font-family: 'Manrope';
+    font-family: var(--font-family);
     font-weight: 800;
-    font-size: 34px;
+    max-width: 510px;
     line-height: 45px;
-    /* or 132% */
+}
 
+.gpt3__whatgpt3-heading p {
+    font-size: 16px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    max-width: 510px;
+    line-height: 30px;
+    color: var(--color-subtext);
+    cursor: pointer;
+}
 
-    background: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%), #FFFFFF;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+.gpt3__whatgpt3-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
 }
