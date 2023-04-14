@@ -1,0 +1,41 @@
+.gpt3__article img {
+    width: 327.34px;
+    height: 130.47px;
+}
+
+
+.gpt3__article-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 327.34px;
+    height: 193.37px;
+
+    background: #042C54;
+}
+
+.gpt3__article-text p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.649px;
+    line-height: 35px;
+
+    margin-left: 30px;
+
+    color: #FFFFFF;
+}
+
+.gpt3__article-text h1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 19.3154px;
+    line-height: 30px;
+    cursor: pointer;
+
+    margin-left: 30px;
+    margin-bottom: 60px;
+
+    color: #FFFFFF;
+}

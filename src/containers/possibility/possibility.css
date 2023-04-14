@@ -1,0 +1,132 @@
+.gpt3__possibility {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+.gpt3__possibility-feature {
+    display: flex;
+    flex-direction: row;
+}
+
+.gpt3__possibility-feature-title h1{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 37px;
+    line-height: 45px;
+    max-width: 510px;
+}
+.gpt3__possibility-feature-title p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    margin-top: 2rem;
+    color: #FF8A71;
+}
+
+.gpt3__possibility-feature_features {
+    margin-left: 250px;
+    
+}
+
+.gpt3__possibility-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.gpt3__possibility-container img {
+    width: 546px;
+    height: 607.53px;
+    left: 723px;
+    top: 2416px;
+    cursor: pointer;
+}
+
+.gpt3__possibility-container-feature {
+    margin-left: 250px;
+    margin-top: 200px;
+}
+
+.gpt3__possibility-container-feature p1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    color: #71E5FF;
+}
+
+.gpt3__features-container__feature {
+    margin-left: 0;
+}
+
+.gpt3__possibility-container-feature p2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FF8A71;
+}
+.gpt3__possibility-banner {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+    width: 1175px;
+    height: 172.65px;
+    left: 135px;
+    top: 3178px;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10.7236px;
+}
+
+.gpt3__possibility-banner-text {
+    margin-left: 100px;
+}
+
+.gpt3__possibility-banner-text h1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 45px;
+    color: #000000;
+}
+
+.gpt3__possibility-banner-text p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 30px;
+    color: #0E0E0E;
+
+}
+
+.gpt3__possibility-banner button {
+    margin-left: 200px;
+    width: 189.14px;
+    height: 59.4px;
+    left: 1078.74px;
+    top: 3235.41px;
+    background: #000000;
+    border-radius: 40px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
